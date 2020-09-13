@@ -14,7 +14,7 @@
   * Linux: gcc / g++ is installed by default on most Linux distros.
   * Mac: same deal as make - [install Xcode command line tools](https://developer.apple.com/xcode/features/).
   * Windows: recommend using [MinGW](http://www.mingw.org/).
-  
+
 ## Build Instructions
 1. Clone this repo.
 2. Make a build directory in the top level directory: `mkdir build && cd build`.
